@@ -1,28 +1,3 @@
-Skip to content
-A-Hicken
-EmployeeAdminPortal
-Repository navigation
-Code
-Issues
-Pull requests
-Agents
-Actions
-Projects
-Wiki
-Security
-Comparing changes
-Choose two branches to see what’s changed or to start a new pull request. If you need to, you can also or learn more about diff comparisons.
-...
-There isn’t anything to compare.
-main and master are entirely different commit histories.
-
-Showing with 107 additions and 1 deletion.
-108 changes: 107 additions & 1 deletion108  
-README.md
-Original file line number Diff line number Diff line change
-@@ -1 +1,107 @@
-Simple application using CRUD for employee information.
-
 # Employee Admin Portal
 
 Employee Admin Portal is a backend-focused ASP.NET Core Web API designed to manage employee records through clean, structured endpoints. This project demonstrates CRUD operations, database integration using Entity Framework Core, and a scalable project structure suitable for real-world applications.
